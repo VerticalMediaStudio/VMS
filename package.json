@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "vms-site",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Vertical Media Studio's Website, because, why not?",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Vertical Media Studio <info@verticalmediastudio.com>",
   "dependencies": {
     "gatsby": "^2.19.7",
     "gatsby-image": "^2.2.39",
@@ -23,7 +23,7 @@
     "prettier": "^1.19.1"
   },
   "keywords": [
-    "gatsby"
+    "VMS"
   ],
   "license": "MIT",
   "scripts": {
